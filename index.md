@@ -8,6 +8,7 @@ Una breve descripcion de mi
 
 ## Ejercicios 
 
+Aqui los ejercicios que se realizaran 
 
 ## Proyectos 
 
