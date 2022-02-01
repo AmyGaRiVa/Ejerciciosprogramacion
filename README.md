@@ -1,5 +1,5 @@
 # Ejerciciosprogramacion
- Un repositorio para ejercicios 
+
 
 En este repositorio guardamos algunos ejercicios que haremos en clase.
 
